@@ -8,4 +8,4 @@
 // Write a function that takes in a string and adds that string to the end of the array.
 
 // Step 4
-// Invoke your function with a few more types of chocolate
+// Invoke your function to add more chocolate to the array
